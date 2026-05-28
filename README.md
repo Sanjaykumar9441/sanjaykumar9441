@@ -1,123 +1,230 @@
-<h1 align="center">Hey there, I'm Sanjay Kumar Chitturi 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=220&section=header&text=Sanjay%20Kumar%20Chitturi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=VLSI%20Engineer%20•%20Full-Stack%20IoT%20Developer%20•%20IEEE%20SPS%20Vice%20Chair&descAlignY=58&descAlign=50"/>
+
+<h1 align="center">
+  Hey there 👋 I'm Sanjay Kumar Chitturi
+</h1>
 
 <p align="center">
-  <b>Electronics & Communication Engineering Undergraduate</b><br/>
-  VLSI • Full-Stack IoT Engineer • IEEE SPS Vice Chair • UGC NEP SAARTHI Ambassador
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=950&lines=Electronics+%26+Communication+Engineering+Student;VLSI+%7C+FPGA+%7C+IoT+Engineer;Full-Stack+Developer;IEEE+SPS+Vice+Chair;Building+at+the+Intersection+of+Silicon+and+Software" />
 </p>
+
+---
+
+# 🌌 About Me
+
+```yaml
+Name: Sanjay Kumar Chitturi
+Role: Electronics & Communication Engineering Undergraduate
+Specialization:
+  - VLSI Design
+  - FPGA Prototyping
+  - Full-Stack IoT Systems
+  - Embedded Systems
+
+Leadership:
+  - IEEE SPS Vice Chair
+  - UGC NEP SAARTHI Ambassador
+
+Passion:
+  Building scalable systems where hardware and software work together seamlessly.
+```
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,react,ts,nodejs,express,mongodb,firebase,flutter,arduino,git,github,vscode,tailwind" />
+</p>
+
+---
+
+# ⚡ Hardware & Embedded Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FPGA-Tang%20Nano%209K-blue?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-HDL-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vivado-EDA-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend-yellow?style=for-the-badge&logo=firebase"/>
+</p>
+
+---
+
+# 🏗️ Featured Projects
+
+## 🚍 SafeTrack — Smart Bus Tracking & Safety Alert System
+
+> Full-stack IoT safety ecosystem for real-time vehicle monitoring and emergency response.
+
+### 🔹 Features
+
+- FPGA-based sensor processing core using Verilog
+- ESP32 edge gateway integration
+- Real-time GPS tracking
+- GSM emergency alert system
+- Flutter mobile app
+- React + Firebase admin dashboard
+
+### 🔹 Tech Stack
+
+`Verilog` `ESP32` `Flutter` `React` `Firebase` `GPS` `GSM`
+
+---
+
+## 🌐 IEEE SPS Official Website
+
+> Official platform for IEEE Signal Processing Society Student Branch Chapter.
+
+### 🔹 Features
+
+- Responsive web platform
+- Event management system
+- Technical updates portal
+- Admin dashboard
+
+### 🔹 Stack
+
+`React` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB`
+
+---
+
+## 🔢 NumSysConverter
+
+> Advanced number system conversion utility.
+
+### 🔹 Features
+
+- Binary ↔ Decimal ↔ Octal ↔ Hexadecimal conversions
+- Input validation
+- Optimized mathematical logic
+
+### 🔹 Stack
+
+`C` `Python`
+
+---
+
+# 🧠 Core Domains
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+### 💻 Software
+
+React • TypeScript • Flutter  
+Node.js • Express • Firebase
+
+</td>
+
+<td align="center" width="300">
+
+### ⚙️ Hardware
+
+FPGA • ESP32 • Sensors  
+Embedded Systems • Verilog
+
+</td>
+
+<td align="center" width="300">
+
+### 📡 IoT
+
+Cloud Dashboards  
+Real-time Telemetry  
+Automation Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 Leadership & Achievements
+
+## ⚡ IEEE SPS Vice Chair
+
+- Organized technical workshops
+- Conducted Arduino Days 2026
+- Led student technical initiatives
+
+## 🎓 UGC NEP SAARTHI Ambassador
+
+- Selected by UGC
+- Student–administration liaison
+- Promoting NEP 2020 reforms
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjaykumar9441&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumar9441&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjaykumar9441&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjaykumar9441&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaykumar9441&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:sanjaykumarchitturi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sanjaykumarchitturi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+
   <a href="https://www.linkedin.com/in/sanjaykumarchitturi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sanjaykumar9441&style=flat-square&color=6366f1&label=Profile+Views" />
+
+  <a href="https://github.com/sanjaykumar9441">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
 </p>
 
 ---
 
-## 🧭 About Me
-
-I design systems where **hardware and software stop being separate disciplines**.
-
-As an ECE undergrad, I work end-to-end — from writing structural **Verilog on an FPGA** to shipping cross-platform dashboards backed by real-time cloud infrastructure. My projects aren't just demos; they're production-grade architectures built to solve real-world problems.
-
-Beyond the terminal, I serve as the **Vice Chair of the IEEE Signal Processing Society Student Branch Chapter**[cite: 1] and as a **UGC NEP SAARTHI Ambassador**, bridging the gap between students, campus administration, and national education policy.
-
-> *"The best engineers don't just build systems — they build communities."*
-
----
-
-## 🛠️ Technical Ecosystem
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & HDLs** | `C` · `C++` · `Python` · `Verilog HDL` |
-| **Hardware & IoT** | FPGA (Tang Nano 9K) · ESP32 · ESP8266 · Arduino · Sensors (Flame/Smoke/Accelerometer/GPS/GSM) |
-| **Full-Stack & Web** | React · TypeScript · Tailwind CSS · Node.js · Express · Flutter · Firebase · MongoDB |
-| **Data & Scripting** | NumPy · Pandas |
-| **EDA & Simulation** | Xilinx Vivado · EDA Playground · Arduino IDE |
-
----
-
-## 💡 Core Focus Areas
-
-### 🔹 Digital Systems & VLSI Design
-Deeply interested in front-end VLSI design and logic verification. I model hardware components in structural and behavioral Verilog, then validate them through comprehensive simulation frameworks in **Vivado** and **EDA Playground**.
-
-### 🔹 Full-Stack IoT Engineering
-I build smart, connected systems from scratch — handling everything from hardware sensor cores and edge gateway processing via ESP32, up to live cloud telemetry pipelines and responsive cross-platform dashboards.
-
-### 🔹 Community Leadership & Advocacy
-Engineering thrives on collaboration. I actively organize technical training events on campus and work as a strategic policy liaison between the student body and university administration.
-
----
-
-## 🏗️ Featured Projects
-
-### 📌 [SafeTrack — Smart Bus Tracking & Safety Alert System](https://github.com/Sanjaykumar9441/SafeTrack)
-> Full-stack IoT safety architecture for real-time vehicle monitoring and automated emergency response protocols.
-
-- Designed an **FPGA sensor core** on the Gowin Tang Nano 9K, written entirely in Verilog, to process live flame, smoke, and crash metrics.
-- Built an **ESP32 gateway** integrating multi-sensor arrays for real-time edge processing and condition validation.
-- Configured **automatic GSM/SMS emergency alerts** and instant cellular voice routing triggered directly by critical sensor thresholds.
-- Deployed a reactive **Flutter mobile application** for live GPS map tracking alongside a dedicated **React + Firebase** admin fleet dashboard.
-
-`Verilog` `ESP32` `Flutter` `React` `Firebase` `GSM` `GPS` `IoT`
-
----
-
-### 📌 [ieee-sps-website — Official IEEE SPS Society Platform](https://github.com/Sanjaykumar9441/ieee-sps-website)
-> Production-grade hub managing web architecture and event workflows for the IEEE Signal Processing Society.
-
-- Engineered a fully responsive, type-safe community platform handling active society operations, registration logs, and academic project displays.
-- Integrated continuous front-end components with unified back-end API microservices.
-- **Stack:** `React` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Express` · `MongoDB`
-
-`React` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB` `Web-Dev`
-
----
-
-### 📌 [NumSysConverter — Digital Number System Converter](https://github.com/Sanjaykumar9441/NumSysConverter)
-> High-performance conversion utility handling matrix computations between global data radices.
-
-- Implemented optimized mathematical routing algorithms using pure structured layout modules in **C and Python**.
-- Features strict algorithmic input filtering to sanitize inputs against corrupted digit strings or complex base conversions.
-
-`C` `Python` `Algorithms`
-
----
-
-## 🛡️ Leadership & Ambassadorships
-
-**⚡ Vice Chair — IEEE Signal Processing Society, Student Branch Chapter**[cite: 1]
-- Direct the deployment of technical workshops, industrial seminars, and cloud infrastructure operations to support hundreds of student members.
-- **Lead Organizer, Arduino Days 2026** — Coordinated logistics, registration software, and guided multi-session, hands-on embedded systems labs.
-
-**🎓 NEP SAARTHI Student Ambassador — University Grants Commission (UGC)**
-- Nominated by university leadership and selected nationally by the UGC to drive the integration of strategic higher education reforms on campus.
-- Act as the lead student voice advising senior administrators on key academic policies and curriculum alignment.
-
----
-
-## 📊 GitHub Analytics
+# 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaykumar9441&show_icons=true&theme=calm&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumar9441&layout=compact&theme=calm&hide_border=true" height="160" />
+  <img src="https://komarev.com/ghpvc/?username=sanjaykumar9441&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+# 💭 Engineering Philosophy
 
-I'm always excited to collaborate on **VLSI design, FPGA prototyping, full-stack systems**, or engineering leadership initiatives.
-
-- 📧 **Email:** [sanjaykumarchitturi@gmail.com](mailto:sanjaykumarchitturi@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sanjaykumarchitturi](https://www.linkedin.com/in/sanjaykumarchitturi)
-
----
 <p align="center">
-  <i>ECE undergrad building at the intersection of silicon and software. 🚀</i>
+  <i>
+    “The future belongs to engineers who can bridge silicon and software.”
+  </i>
 </p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0f172a&height=120&section=footer"/>
